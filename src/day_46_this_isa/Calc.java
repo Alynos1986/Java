@@ -15,5 +15,10 @@ public class Calc {
 
     public int getResult(){
         return result;
+
+    }
+
+    public static void main(String[] args) {
+        System.out.println("ALIN");
     }
 }
